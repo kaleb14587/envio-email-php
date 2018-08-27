@@ -13,8 +13,8 @@ define('SMTP_HOST','smtp.mailtrap.io');//smtp.gmail.com
 define('SMTP_AUTH',true);
 define('SMTP_SECURE',false);//ssl
 define('SMTP_PORT',2525);//587
-define('SMTP_USER_NAME',"dd92c368db946e");//kaleb.borda@nitrodev.com
-define('SMTP_USER_PASSWORD','956125856e80cb');//KpclwAy07eb
+define('SMTP_USER_NAME',"user_mail_trap");//
+define('SMTP_USER_PASSWORD','pwd_mailtrap');//
 
 //erros
 define("EMAIL_NAO_ENVIADO_CODE",514);
